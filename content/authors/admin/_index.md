@@ -1,8 +1,11 @@
 ---
 title: Xiao Zhang
 role: Postdoctoral Associate in Millar School of Medicine, University of Miami
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include design and synthesis of organic functional
+  compounds and supramolecular materials, characterization of compound
+  properties with conventional techniques such as NMR, MS, UV- Vis,
+  Fluorescence, HPLC, GPC, DLS, etc. and basic cell experiment skills for
+  physiological research
 interests:
   - Drug delivery
   - Organic fluorescent probes
