@@ -23,14 +23,14 @@ title: Targetable N-annluated perylene-based colorimetric and ratiometric
   near-infrared fluorescent probes for the selective detection of hydrogen
   sulfide in mitochondria, lysosomes, and serum.
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00.000Z
+date: 2017-02-21T01:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
