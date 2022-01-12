@@ -40,4 +40,4 @@ highlight_name: true
 ---
 Xiao Zhang is a Postdoctoral Associate of Department of Biochemistry and Molecular Biology at Dr Shanta Dhar Lab. His research interests include develop mitochondrial-targeted nanoparticles for drug delivery and research their biological mechanism in cancer cells, develop supramolecular delivery strategies for bioimaging and therapeutics, design and synthesize organic fluorescent probes for bioimaging and chemoselective detection of specific biomolecules. and measure the optical responses of fluorescent probes towards specific biological analytes.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Xiao_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
