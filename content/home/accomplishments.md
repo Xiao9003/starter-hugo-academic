@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2018
+date_format: 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -25,7 +25,7 @@ date_format: Jan 2018
 item:
 - certificate_url: https://www.patentguru.com/cn/inventor/%E8%8A%B1%E5%BB%BA%E4%B8%BD
   date_end: ""
-  date_start: "2018"
+  date_start: "2018-01-09"
   description: ""
   organization: China patent
   organization_url: 
