@@ -4,7 +4,7 @@ abstract: We synthesized a series of triphenylphosphine (TPP)-based
   anticancer capability
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: ""
 title: Inhibition of fatty acid oxidation in cancer cells using mitochondria
   targeted metabolic inhibitors
 location: Miami
@@ -20,10 +20,10 @@ authors:
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
+  street: Ritz Carlton, Coconut Grove
+  city: Miami
+  region: FL
+  postcode: "33133"
   country: United States
 links:
   - icon: ""
