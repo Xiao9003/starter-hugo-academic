@@ -14,7 +14,7 @@ publication: Chemical Communications
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2017-05-03T15:00:10.025Z
