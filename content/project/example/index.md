@@ -1,6 +1,7 @@
 ---
 slides: example
 url_pdf: ""
+date: 2017-05-04T00:00:00.000Z
 summary: In summary, phenazine-barbituric acid NIR fluorescent probes with only
   one fluorophore were developed for the ultrasensitive and selective detection
   of biothiols. Due to the strong electron-withdrawing ability of the barbituric
@@ -19,14 +20,14 @@ summary: In summary, phenazine-barbituric acid NIR fluorescent probes with only
   serum via the changes of the film absorption, paving a new way for the
   biological application of fluorescent probes.
 url_video: ""
-date: 2017-05-04T00:00:00.000Z
-external_link: ""
-url_slides: ""
 title: A phenazine-barbituric acid based colorimetric and ratiometric
   near-infrared fluorescent probe for sensitively differentiating biothiols and
   its application in TiO2 sensor devices
+featured: true
 tags:
   - fluorescent probe
+external_link: ""
+url_slides: ""
 links: []
 image:
   caption: ""
